@@ -40,4 +40,4 @@ Use a Laptop as the 'attacker' in the diagram.
 **Connect the devices together using Packet Tracer's
 'Automatically Choose Connection Type' function**
  
-Screenshot 2025-11-21 at 4.01.33 PM
+<img width="1344" height="435" alt="Screenshot 2025-11-21 at 4 01 33 PM" src="https://github.com/user-attachments/assets/35ae9bde-61ce-4cb1-a722-2da91da8fdc6" />
